@@ -1,0 +1,6 @@
+@Cinematrix.API_HostAddress = http://localhost:5149
+
+GET {{Cinematrix.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
